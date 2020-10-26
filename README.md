@@ -29,7 +29,10 @@ src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/104961974/origi
 <br />
 <br />
 
+![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=dominatorfaf&count_private=true&show_icons=true)
+
 ### Goals:
 * [ ] Contribute more to open source projects 
 * [ ] Learn more about deployment and orchestration
 * [ ] Build more projects outside working hours
+* [ ] Write more articles about technologies I use and development process
