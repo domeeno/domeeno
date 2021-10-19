@@ -1,9 +1,9 @@
 ## Hi there, I'm Dominic - aka dominatorfaf
 
-### I'm a Junior Software Engineer
+### I'm a Full Stack Software Engineer
 - 🍂 I'm looking to work and try everything out.
-- 🍁 I love to find creativity in programming and use it to my advantage
-- 🍃 I love making music, creating designs and practice arts such as painting.
+- 🍁 I love to find creativity in programming and experiment with a lot of different laguages and frameworks
+- 🍃 Currently learning something, most probably...
 
 ### Languages and tools:
 <img align="left" alt="cplusplus" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
@@ -29,10 +29,4 @@ src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/104961974/origi
 <br />
 <br />
 
-![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=dominatorfaf&count_private=true&show_icons=true)
-
-### Goals:
-* [ ] Contribute more to open source projects 
-* [ ] Learn more about deployment and orchestration
-* [ ] Build more projects outside working hours
-* [ ] Write more articles about technologies I use and development process
+![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=domeeno&count_private=true&show_icons=true)
