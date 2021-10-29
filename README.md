@@ -5,6 +5,8 @@
 - 🍁 I love to find creativity in programming and experiment with a lot of different laguages and frameworks
 - 🍃 Currently learning something, most probably...
 
+<!--  UPDATE THE TECH STACK WITH NEW TECH I LEARNED -->
+
 ### Languages and tools:
 <img align="left" alt="cplusplus" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="Java" width="26px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
